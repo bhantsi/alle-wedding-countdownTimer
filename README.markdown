@@ -1,4 +1,4 @@
-# Countdown timer to All-E's weddig
+# Countdown timer to All-E's wedding
 
 
  
